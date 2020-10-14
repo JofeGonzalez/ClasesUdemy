@@ -1,0 +1,7 @@
+C:\Users\jgonz\source\repos\Tarea1\Tarea2Udemy\bin\Debug\Tarea2Udemy.exe.config
+C:\Users\jgonz\source\repos\Tarea1\Tarea2Udemy\bin\Debug\Tarea2Udemy.exe
+C:\Users\jgonz\source\repos\Tarea1\Tarea2Udemy\bin\Debug\Tarea2Udemy.pdb
+C:\Users\jgonz\source\repos\Tarea1\Tarea2Udemy\obj\Debug\Tarea2Udemy.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\Tarea1\Tarea2Udemy\obj\Debug\Tarea2Udemy.exe
+C:\Users\jgonz\source\repos\Tarea1\Tarea2Udemy\obj\Debug\Tarea2Udemy.pdb
+C:\Users\jgonz\source\repos\Tarea1\Tarea2Udemy\obj\Debug\Tarea2Udemy.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\jgonz\source\repos\SegundoDiaEstudio\SegundoDiaEstudio\obj\Debug\SegundoDiaEstudio.csprojAssemblyReference.cache
+C:\Users\jgonz\source\repos\SegundoDiaEstudio\SegundoDiaEstudio\obj\Debug\SegundoDiaEstudio.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\SegundoDiaEstudio\SegundoDiaEstudio\bin\Debug\SegundoDiaEstudio.exe.config
+C:\Users\jgonz\source\repos\SegundoDiaEstudio\SegundoDiaEstudio\bin\Debug\SegundoDiaEstudio.exe
+C:\Users\jgonz\source\repos\SegundoDiaEstudio\SegundoDiaEstudio\bin\Debug\SegundoDiaEstudio.pdb
+C:\Users\jgonz\source\repos\SegundoDiaEstudio\SegundoDiaEstudio\obj\Debug\SegundoDiaEstudio.exe
+C:\Users\jgonz\source\repos\SegundoDiaEstudio\SegundoDiaEstudio\obj\Debug\SegundoDiaEstudio.pdb

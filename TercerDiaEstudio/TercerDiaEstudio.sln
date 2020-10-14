@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TercerDiaEstudio", "TercerDiaEstudio\TercerDiaEstudio.csproj", "{C95DDBE0-4CEA-4E19-B5D4-E18B906D69B0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95DDBE0-4CEA-4E19-B5D4-E18B906D69B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95DDBE0-4CEA-4E19-B5D4-E18B906D69B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C95DDBE0-4CEA-4E19-B5D4-E18B906D69B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C95DDBE0-4CEA-4E19-B5D4-E18B906D69B0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC3B65F9-D5DC-4E56-B4C2-451863572D63}
+	EndGlobalSection
+EndGlobal

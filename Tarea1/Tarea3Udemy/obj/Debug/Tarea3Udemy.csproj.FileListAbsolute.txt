@@ -1,0 +1,7 @@
+C:\Users\jgonz\source\repos\Tarea1\Tarea3Udemy\bin\Debug\Tarea3Udemy.exe.config
+C:\Users\jgonz\source\repos\Tarea1\Tarea3Udemy\bin\Debug\Tarea3Udemy.exe
+C:\Users\jgonz\source\repos\Tarea1\Tarea3Udemy\bin\Debug\Tarea3Udemy.pdb
+C:\Users\jgonz\source\repos\Tarea1\Tarea3Udemy\obj\Debug\Tarea3Udemy.csprojAssemblyReference.cache
+C:\Users\jgonz\source\repos\Tarea1\Tarea3Udemy\obj\Debug\Tarea3Udemy.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\Tarea1\Tarea3Udemy\obj\Debug\Tarea3Udemy.exe
+C:\Users\jgonz\source\repos\Tarea1\Tarea3Udemy\obj\Debug\Tarea3Udemy.pdb

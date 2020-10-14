@@ -1,0 +1,7 @@
+C:\Users\jgonz\source\repos\PrimerDiaEstudio\PrimerDiaEstudio\bin\Debug\PrimerDiaEstudio.exe.config
+C:\Users\jgonz\source\repos\PrimerDiaEstudio\PrimerDiaEstudio\bin\Debug\PrimerDiaEstudio.exe
+C:\Users\jgonz\source\repos\PrimerDiaEstudio\PrimerDiaEstudio\bin\Debug\PrimerDiaEstudio.pdb
+C:\Users\jgonz\source\repos\PrimerDiaEstudio\PrimerDiaEstudio\obj\Debug\PrimerDiaEstudio.csprojAssemblyReference.cache
+C:\Users\jgonz\source\repos\PrimerDiaEstudio\PrimerDiaEstudio\obj\Debug\PrimerDiaEstudio.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\PrimerDiaEstudio\PrimerDiaEstudio\obj\Debug\PrimerDiaEstudio.exe
+C:\Users\jgonz\source\repos\PrimerDiaEstudio\PrimerDiaEstudio\obj\Debug\PrimerDiaEstudio.pdb

@@ -1,0 +1,7 @@
+C:\Users\jgonz\source\repos\TercerDiaEstudio\TercerDiaEstudio\bin\Debug\TercerDiaEstudio.exe.config
+C:\Users\jgonz\source\repos\TercerDiaEstudio\TercerDiaEstudio\bin\Debug\TercerDiaEstudio.exe
+C:\Users\jgonz\source\repos\TercerDiaEstudio\TercerDiaEstudio\bin\Debug\TercerDiaEstudio.pdb
+C:\Users\jgonz\source\repos\TercerDiaEstudio\TercerDiaEstudio\obj\Debug\TercerDiaEstudio.csprojAssemblyReference.cache
+C:\Users\jgonz\source\repos\TercerDiaEstudio\TercerDiaEstudio\obj\Debug\TercerDiaEstudio.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\TercerDiaEstudio\TercerDiaEstudio\obj\Debug\TercerDiaEstudio.exe
+C:\Users\jgonz\source\repos\TercerDiaEstudio\TercerDiaEstudio\obj\Debug\TercerDiaEstudio.pdb
