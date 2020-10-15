@@ -1,0 +1,11 @@
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\bin\Debug\ClaseUdemy.exe.config
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\bin\Debug\ClaseUdemy.exe
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\bin\Debug\ClaseUdemy.pdb
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\obj\Debug\ClaseUdemy.csprojAssemblyReference.cache
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\obj\Debug\ClaseUdemy.Form1.resources
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\obj\Debug\ClaseUdemy.Properties.Resources.resources
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\obj\Debug\ClaseUdemy.csproj.GenerateResource.cache
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\obj\Debug\ClaseUdemy.csproj.CoreCompileInputs.cache
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\obj\Debug\ClaseUdemy.exe
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\obj\Debug\ClaseUdemy.pdb
+C:\Users\jgonz\source\repos\ClasesUdemy\ClaseUdemy\obj\Debug\ClaseUdemy.Form2.resources
