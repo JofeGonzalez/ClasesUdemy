@@ -58,7 +58,7 @@ ul {
 
     top:100%;
     z-index: 1;
-    background-color: white;
+    background-color: rgb(212, 211, 211);
     padding: 20px;
     min-height: 400px;
     min-width: 300px;
@@ -100,10 +100,10 @@ ul {
 
 .barra {
     padding: 20px 0;
-    background: #741d51; /* Old browsers */
-    background: -moz-linear-gradient(left, #741d51 0%, #e44e52 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(left, #741d51 0%,#e44e52 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to right, #741d51 0%,#e44e52 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    background: #140b46; /* Old browsers */
+    background: -moz-linear-gradient(left, #2a1d74 0%, #6d9ce2 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #2a1d74 0%, #6d9ce2 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #2a1d74 0%, #6d9ce2 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#741d51', endColorstr='#e44e52',GradientType=1 ); /* IE6-9 */
 }
 
